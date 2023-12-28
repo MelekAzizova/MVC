@@ -1,0 +1,45 @@
+﻿@using Restorant.ViewModels.MenuVM
+@model List<MenuListItemVM>
+@{
+    ViewData["Title"] = "Index";
+}
+
+<div class="card-body">
+    <div class="table-responsive">
+        <a href="~/Admin/Menu/Create" >Create</a>
+        <table class="table table-bordered" id="dataTable" width="100%" cellspacing="0">
+            <thead>
+                <tr>
+                    <th>Id</th>
+                    <th>Name</th>
+                    <th>Desceription</th>
+                    <th>Price</th>
+                    <th>Image</th>
+                    <th>Category</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach(var item in Model)
+                {
+                    <tr>
+                        <th>@item.Id</th>
+                        <th>@item.Name</th>
+                        <th>@item.Description</th>
+                        <th>@item.Price</th>
+                        <th>@item.Image</th>
+                        <th>@item.Category.Name</th>
+                    </tr>
+                    
+                }
+            
+            </tbody>
+
+
+
+
+
+        </table>
+    </div>
+</div>
+
+

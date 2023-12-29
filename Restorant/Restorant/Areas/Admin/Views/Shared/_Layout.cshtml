@@ -41,16 +41,22 @@
             <hr class="sidebar-divider my-0">
 
             <!-- Nav Item - Dashboard -->
-            <li class="nav-item active">
-                <a class="nav-link" href="index.html">
+            <li class="nav-item ">
+                <a class="nav-link" asp-action="Index" asp-controller="Menu" >
                     <i class="fas fa-fw fa-tachometer-alt"></i>
-                    <span>Dashboard</span>
+                    <span>Menu</span>
                 </a>
             </li>
-
+            
             <!-- Divider -->
             <hr class="sidebar-divider">
-
+            <li class="nav-item ">
+                <a class="nav-link" asp-action="Index" asp-controller="Category">
+                    <i class="fas fa-fw fa-tachometer-alt"></i>
+                    <span>Category</span>
+                </a>
+            </li>
+            <hr class="sidebar-divider">
             <!-- Heading -->
             <!-- Nav Item - Pages Collapse Menu -->
             <!-- Nav Item - Utilities Collapse Menu -->

@@ -1,0 +1,35 @@
+﻿@model List<BlogListItemVM>
+@{
+    ViewData["Title"] = "Index";
+}
+<div class="card shadow mb-4">
+    <a class="btn btn-primary"  asp-controller="Create" href="Admin/Create/Index" role="button">Create</a>
+    <div class="card-body">
+        <div class="table-responsive">
+            <table class="table table-bordered" id="dataTable" width="100%" cellspacing="0">
+                <thead>
+                    <tr>
+                        <th>Id</th>
+                        <th>Name</th>
+                        <th>Title</th>
+                        <th>Author</th>
+                        <th>Start date</th>
+                        <th>Image</th>
+                    </tr>
+                </thead>
+                @foreach(var item in Model)
+                {
+
+                    <tr>@item.Id</tr>
+                    <tr>@item.Name</tr>
+                    <tr>@item.Title</tr>
+                    <tr>@item.Author</tr>
+                    <tr>@item.CreateAt</tr>
+                    <tr>@item.Image</tr>
+                }
+            </table>
+        </div>
+    </div>
+</div>
+
+

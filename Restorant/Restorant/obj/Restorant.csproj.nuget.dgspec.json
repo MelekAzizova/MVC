@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\birinci novbe\\Desktop\\MVC\\Restorant\\Restorant\\Restorant.csproj": {}
+    "C:\\Users\\Melek\\OneDrive\\Desktop\\MVC\\Restorant\\Restorant\\Restorant.csproj": {}
   },
   "projects": {
-    "C:\\Users\\birinci novbe\\Desktop\\MVC\\Restorant\\Restorant\\Restorant.csproj": {
+    "C:\\Users\\Melek\\OneDrive\\Desktop\\MVC\\Restorant\\Restorant\\Restorant.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\birinci novbe\\Desktop\\MVC\\Restorant\\Restorant\\Restorant.csproj",
+        "projectUniqueName": "C:\\Users\\Melek\\OneDrive\\Desktop\\MVC\\Restorant\\Restorant\\Restorant.csproj",
         "projectName": "Restorant",
-        "projectPath": "C:\\Users\\birinci novbe\\Desktop\\MVC\\Restorant\\Restorant\\Restorant.csproj",
-        "packagesPath": "C:\\Users\\birinci novbe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\birinci novbe\\Desktop\\MVC\\Restorant\\Restorant\\obj\\",
+        "projectPath": "C:\\Users\\Melek\\OneDrive\\Desktop\\MVC\\Restorant\\Restorant\\Restorant.csproj",
+        "packagesPath": "C:\\Users\\Melek\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Melek\\OneDrive\\Desktop\\MVC\\Restorant\\Restorant\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\birinci novbe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Melek\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

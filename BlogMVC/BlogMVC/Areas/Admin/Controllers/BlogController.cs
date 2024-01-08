@@ -29,5 +29,17 @@ namespace BlogMVC.Areas.Admin.Controllers
             
             return View(item);
         }
+        public IActionResult Create()
+        {
+            return View();
+        }
+
+        [HttpPost]
+        public async Task<IActionResult> Create(BlogCreateVM vm)
+        {
+            
+            return RedirectToAction(nameof(Index));
+        }
+       
     }
 }

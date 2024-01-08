@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Melek\\OneDrive\\Desktop\\BlogMVC\\BlogMVC\\BlogMVC.csproj": {}
+    "C:\\Users\\birinci novbe\\Desktop\\MVC\\BlogMVC\\BlogMVC\\BlogMVC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Melek\\OneDrive\\Desktop\\BlogMVC\\BlogMVC\\BlogMVC.csproj": {
+    "C:\\Users\\birinci novbe\\Desktop\\MVC\\BlogMVC\\BlogMVC\\BlogMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Melek\\OneDrive\\Desktop\\BlogMVC\\BlogMVC\\BlogMVC.csproj",
+        "projectUniqueName": "C:\\Users\\birinci novbe\\Desktop\\MVC\\BlogMVC\\BlogMVC\\BlogMVC.csproj",
         "projectName": "BlogMVC",
-        "projectPath": "C:\\Users\\Melek\\OneDrive\\Desktop\\BlogMVC\\BlogMVC\\BlogMVC.csproj",
-        "packagesPath": "C:\\Users\\Melek\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Melek\\OneDrive\\Desktop\\BlogMVC\\BlogMVC\\obj\\",
+        "projectPath": "C:\\Users\\birinci novbe\\Desktop\\MVC\\BlogMVC\\BlogMVC\\BlogMVC.csproj",
+        "packagesPath": "C:\\Users\\birinci novbe\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\birinci novbe\\Desktop\\MVC\\BlogMVC\\BlogMVC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Melek\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\birinci novbe\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
